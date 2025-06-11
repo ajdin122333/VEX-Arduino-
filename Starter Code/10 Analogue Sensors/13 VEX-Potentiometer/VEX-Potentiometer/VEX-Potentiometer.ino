@@ -1,5 +1,5 @@
 int potPin = A3;  //Using Analog Pin A3
-int potVal = 0;
+int potVal = 9;
 
 void setup() {
   Serial.begin(9600);
